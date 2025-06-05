@@ -1,6 +1,6 @@
 # Hello! My name is Danail Donkov from Bulgaria and I am currently mastering my skills in Python and Computer Science.
 
-🔗 Git Hub Accoun: https://github.com/Danail57
+🔗 Git Hub Account: https://github.com/Danail57
 
 **About me**
 
