@@ -26,7 +26,7 @@ I'm currently learning programming with Python through various courses and build
 
   ### 🔍 Keywords to help others find me:
 
-`Danail Donkov`, `Danail57`, `Python developer`, `Cybersecurity beginner`, `SQL`, `MS Excel`, `GitHub`, `learning by doing`, `programming courses`, `Python projects`
+`Danail Donkov`, `Danail57`, `Python developer`, `Cybersecurity learner`,`MS Excel`, `GitHub`, `learning by doing`, `programming courses`, `Python projects`
 
 ## My motto is:
 🧠💻 Learning by doing 🚀 - the mindset that builds and develops real beneficial skills.
