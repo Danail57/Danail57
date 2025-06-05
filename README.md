@@ -1,7 +1,5 @@
 # Hello! My name is Danail Donkov from Bulgaria and I am currently mastering my skills in Python and Computer Science.
 
- 👋 Hello, I'm **Danail Donkov**!
-
 **About me**
 
 I'm currently learning programming with Python through various courses and building hands-on projects to sharpen my skills.
