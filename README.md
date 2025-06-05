@@ -3,6 +3,7 @@
  👋 Hello, I'm **Danail Donkov**!
 
 **About me**
+
 I'm currently learning programming with Python through various courses and building hands-on projects to sharpen my skills.
 
 ## 💻 What I'm working with:
