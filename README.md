@@ -20,6 +20,7 @@ I'm currently learning programming with Python through various courses and build
 
 ## 📫 How to reach me:
 - 📧 Email: danail.donkov5@gmail.com
+- 💼 LinkedIn https://www.linkedin.com/in/danail-donkov-15b328331
 
 ## My motto is:
 🧠💻 Learning by doing 🚀 - the mindset that builds and develops real beneficial skills.
