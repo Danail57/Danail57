@@ -24,5 +24,9 @@ I'm currently learning programming with Python through various courses and build
 - 📧 Email: danail.donkov5@gmail.com
 - 💼 LinkedIn https://www.linkedin.com/in/danail-donkov-15b328331
 
+  ### 🔍 Keywords to help others find me:
+
+`Danail Donkov`, `Danail57`, `Python developer`, `Cybersecurity beginner`, `SQL`, `MS Excel`, `GitHub`, `learning by doing`, `programming courses`, `Python projects`
+
 ## My motto is:
 🧠💻 Learning by doing 🚀 - the mindset that builds and develops real beneficial skills.
