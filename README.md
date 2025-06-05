@@ -1,5 +1,4 @@
-# Danail57
-Personal GitHub profile – Python, cybersecurity &amp; tech tools enthusiast.
+# Danail_Donkov
 
  👋 Hello, I'm **Danail Donkov**!
 
