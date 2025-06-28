@@ -1,4 +1,4 @@
-# Hello! My name is Danail Donkov from Bulgaria and I am currently mastering my skills in Python and Computer Science.
+
 
 **About me**
 
