@@ -19,7 +19,7 @@ I'm currently learning programming with Python through various courses and build
 - Collaborate with others on GitHub
 
 ## 📫 How to reach me:
-- 📧 Email: danail.donkov5@gmail.com![Uploading 408866-code-python-computer-Python_programming-programming_language.jpg…]()
+- 📧 Email: danail.donkov5@gmail.com!
 
 - 💼 LinkedIn https://www.linkedin.com/in/danail-donkov-15b328331
 
