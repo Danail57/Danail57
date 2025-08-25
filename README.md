@@ -10,7 +10,7 @@ I'm currently learning programming with Python through various courses and build
 - 🗃️ **SQL & Databases** - managing data and writing queries  
 - 📊 **MS Excel** - data analysis and organization  
 - 🌐 **HTML/CSS** - creating mini sites
-- 💼 **MS Office** - working with 📄 Word, 📊 Excel, and 📽️ PowerPoint
+- 💼 **MS Office** - working with 📄 Word; 📊 Excel; 📽️ PowerPoint
 
 
 ## 🚀 Goals:
