@@ -21,7 +21,7 @@ I'm currently learning programming with Python through various courses and build
 ## 📫 How to reach me:
 - 📧 Email: danail.donkov5@gmail.com
 
-- 💼 LinkedIn https://www.linkedin.com/in/danail-donkov-15b328331
+- 💼 LinkedIn: https://www.linkedin.com/in/danail-donkov-15b328331
 
   ### 🔍 Keywords to help others find me:
 
