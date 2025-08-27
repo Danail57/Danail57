@@ -14,8 +14,8 @@ I'm currently learning programming with Python through various courses and build
 
 
 ## 🚀 Goals:
-- Build more real-world projects
-- Explore ethical hacking and security practices
+- Build more real-world projects;
+- Explore ethical hacking and security practices;
 - Collaborate with others on GitHub
 
 ## 📫 How to reach me:
