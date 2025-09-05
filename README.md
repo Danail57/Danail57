@@ -7,7 +7,7 @@ I'm currently learning Programming with Python through various courses and build
 ## 💻 What I'm working with:
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools  
 - 🛡️ **Cybersecurity** - Learning fundamentals and practicing safe coding  
-- 🗃️ **SQL & Databases** - managing data and writing queries  
+- 🗃️ **SQL & Databases** - Managing data and writing queries  
 - 📊 **MS Excel** - data analysis and organization  
 - 🌐 **HTML/CSS** - creating mini sites
 - 💼 **MS Office** - working with 📄 Word; 📊 Excel; 📽️ PowerPoint
