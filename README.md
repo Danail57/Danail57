@@ -28,4 +28,4 @@ I'm currently learning Programming with Python through various courses and build
 `Danail57`, `Python developer`, `Cybersecurity learner`,`MS Excel`, `GitHub`, `learning by doing`, `programming courses`, `Python projects`
 
 ## My motto is:
-🧠💻 Learning by doing 🚀 - the mindset that builds and develops real beneficial skills.
+🧠💻 Learning by doing 🚀 -  the mindset that builds and develops real beneficial skills.
