@@ -16,7 +16,7 @@ I'm currently learning Programming with Python through various courses and build
 ## 🚀 Goals:
 - Build more real-world projects;
 - Explore ethical hacking and security practices;
-- Collaborate with others on GitHub
+- Collaborate with others on GitHub.
 
 ## 📫 How to reach me:
 - 📧 Email: danail.donkov5@gmail.com
