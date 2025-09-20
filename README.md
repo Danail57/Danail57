@@ -1,5 +1,4 @@
 
-
 **About me**
 
 I'm currently learning Programming with Python through various courses and building hands-on projects to sharpen my skills.
