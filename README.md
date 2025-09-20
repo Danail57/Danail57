@@ -7,7 +7,7 @@ I'm currently learning Programming with Python through various courses and build
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
 - 🛡️ **Cybersecurity** - Learning fundamentals and practicing safe coding;
 - 🗃️ **SQL & Databases** - Managing data and writing queries;
-- 📊 **MS Excel** - Data analysis and organization.
+- 📊 **MS Excel** - Data analysis and organization;
 - 🌐 **HTML/CSS** - Creating mini sites;
 - 💼 **MS Office** - Working with 📄 Word; 📊 Excel; 📽️ PowerPoint.
 
