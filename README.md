@@ -4,7 +4,7 @@
 I'm currently learning Programming with Python through various courses and building hands-on projects to sharpen my skills.
 
 ## 💻 What I'm working with:
-- 🐍 **Python** - Writing scripts, automating tasks and building small tools.
+- 🐍 **Python** - Writing scripts, automating tasks and building small tools;
 - 🛡️ **Cybersecurity** - Learning fundamentals and practicing safe coding.
 - 🗃️ **SQL & Databases** - Managing data and writing queries.
 - 📊 **MS Excel** - Data analysis and organization.
