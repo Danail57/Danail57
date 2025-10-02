@@ -2,6 +2,7 @@
 **About me**
 
 I'm currently learning Programming with Python through various courses and building hands-on projects to sharpen my skills.
+Currently, I have started to study C++ at the university and broadening my knowledge orizons of the programming language.
 
 ## 💻 What I'm working with:
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
