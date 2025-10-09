@@ -9,9 +9,11 @@ I'm currently learning C++ at university and working to deepen my understanding 
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
 - ⚙️ **C++** - Building a solid foundation in scripting and automation with small personal projects;
 - 🗃️ **SQL & Databases** - Managing data and writing queries;
-- 📊 **MS Excel** - Data analysis and organization;
 - 🌐 **HTML/CSS** - Creating mini sites;
-- 💼 **MS Office** - Working with 📄 Word; 📊 Excel; 📽️ PowerPoint.
+- 💼 **MS Office** - Working with
+  - 📄 Word;
+  - 📊 Excel;
+  - 📽️ PowerPoint.
 
 
 ## 🚀 Goals:
