@@ -7,7 +7,7 @@ I'm currently learning C++ at university and working to deepen my understanding 
 
 ## 💻 What I'm working with:
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
-- 🛡️ **Cybersecurity** - Learning fundamentals and practicing safe coding;
+- ⚙️ **C++** - Building a solid foundation in scripting and automation with small personal projects;
 - 🗃️ **SQL & Databases** - Managing data and writing queries;
 - 📊 **MS Excel** - Data analysis and organization;
 - 🌐 **HTML/CSS** - Creating mini sites;
