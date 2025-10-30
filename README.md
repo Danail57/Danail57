@@ -3,7 +3,7 @@
 
 I'm currently learning Programming with Python through various courses and building hands-on projects to sharpen my skills.
 
-I'm currently learning C++ at university and working to deepen my understanding of the language.
+I'm currently studying C++ at university and working to deepen my understanding of the language.
 
 ## 💻 What I'm working with:
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
