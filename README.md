@@ -28,7 +28,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 
   ### 🔍 Keywords to help others find me:
 
-`Danail57`, `Python developer`, `Cybersecurity learner`,`MS Excel`, `GitHub`, `learning by doing`, `programming courses`, `Python projects`
+`Danail57`, `Python developer`, `Cybersecurity learner`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming courses`, `Python projects`
 
 ## My motto is:
 🧠💻 Learning by doing 🚀 -  The mindset that builds and develops real beneficial skills.
