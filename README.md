@@ -15,7 +15,6 @@ I'm currently studying C++ at university and working to deepen my understanding 
   - 📊 Excel;
   - 📽️ PowerPoint.
 
-
 ## 🚀 Goals:
 - Build more real-world projects;
 - Explore ethical hacking and security practices;
