@@ -7,7 +7,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 
 ## 💻 What I'm working with:
 - 🐍 **Python** - Writing scripts, automating tasks and building small tools;
-- 🐍 **Python for Data Science andMachine Learning**
+- 🐍 **Python for Data Science and Machine Learning**
 - ⚙️ **C++ and Competitive Programming** - Building a solid foundation in scripting and automation with small personal projects;
 - 🗃️ **SQL & Databases** - Managing data and writing queries;
 - 🌐 **HTML/CSS** - Creating mini sites;
