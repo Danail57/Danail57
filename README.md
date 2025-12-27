@@ -14,7 +14,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 - 💼 **MS Office** - Working with
   - 📄 Word;
   - 📊 Excel;
-  - 📽️ PowerPoint.
+  - 📽️ Power Point.
 
 ## 🚀 Goals:
 - Build more real-world projects;
