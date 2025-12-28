@@ -11,7 +11,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 - ⚙️ **C++ and Competitive Programming** - Building a solid foundation in scripting and automation with small personal projects;
 - 🗃️ **SQL & Databases** - Managing data and writing queries;
 - 🌐 **HTML/CSS** - Creating mini sites;
-- 💼 **MS Office** - Working with
+- 💼 **MS Office** 
   - 📄 Word;
   - 📊 Excel;
   - 📽️ Power Point.
