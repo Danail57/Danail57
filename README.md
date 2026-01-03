@@ -12,7 +12,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 - 🗃️ **MySQL and Python DataFrames** 
 - 🌐 **HTML, CSS and Java Script**
 - 💼 **MS Office** 
-  - 📄 Word;
+  - 📄 Word.
   - 📊 Excel.
   - 📽️ Power Point.
 
