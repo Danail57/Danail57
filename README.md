@@ -13,7 +13,7 @@ I'm currently studying C++ at university and working to deepen my understanding 
 - 🌐 **HTML, CSS and Java Script**
 - 💼 **MS Office** 
   - 📄 Word;
-  - 📊 Excel;
+  - 📊 Excel.
   - 📽️ Power Point.
 
 ## 🚀 Goals:
