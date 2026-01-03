@@ -6,7 +6,7 @@ I'm currently learning Programming with Python through various courses and build
 I'm currently studying C++ at university and working to deepen my understanding of the language.
 
 ## 💻 What I'm working with:
-- 🐍 **Python** - Basics, Fundamentals, Advanced, OOP;
+- 🐍 **Python - Basics, Fundamentals, Advanced, OOP**
 - 🐍 **Python for Data Science and Machine Learning**
 - ⚙️ **C++ and Competitive Programming**
 - 🗃️ **MySQL and Python DataFrames** 
