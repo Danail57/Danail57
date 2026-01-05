@@ -1,15 +1,20 @@
 
 **About me**
-
+'''
 import pandas as pd
 
-data = {"Name": ["Danail"],
-        "Age": [19],
-        "Courses": ["Python Basics, Fundamentals, Advanced, OOP, Data Science"],
-        "Education": ["C++ Basic"],
-        "Club": ["Competitive Programming"],
-        "Skills": ["Learning and Programming Every Day, Curiosity, Solving Different Tasks"]}
+data = {
+    "Name": ["Danail"],
+    "Age": [19],
+    "Courses": ["Python Basics, Fundamentals, Advanced, OOP, Data Science"],
+    "Education": ["C++ Basic"],
+    "Club": ["Competitive Programming"],
+    "Skills": ["Learning and Programming Every Day, Curiosity, Solving Different Tasks"]
+}
+
 pd.DataFrame(data)
+
+'''
 
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
