@@ -1,9 +1,15 @@
 
 **About me**
 
-I'm currently learning Programming with Python through various courses and building hands-on projects to sharpen my skills.
+import pandas as pd
 
-I'm currently studying C++ at university and working to deepen my understanding of the language.
+data = {"Name": ["Danail"],
+        "Age": [19],
+        "Courses": ["Python Basics, Fundamentals, Advanced, OOP, Data Science"],
+        "Education": ["C++ Basic"],
+        "Club": ["Competitive Programming"],
+        "Skills": ["Learning and Programming Every Day, Curiosity, Solving Different Tasks"]}
+pd.DataFrame(data)
 
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
