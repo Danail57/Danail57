@@ -1,21 +1,8 @@
 
 **About me**
+Hi! I am Danail and I am 19 years old. I am studying Python through various courses, including Python Basics, Fundamentals, Advanced and OOP concepts. Moreover, Data Science with Python is also in the studying list. Additionally, I am learning C++ and Competitive Programming with C++.
+I solve daily different programming tasks and upload different educational information almost every day.
 
-
-import pandas as pd
-
-data = {
-    "Name": ["Danail"],
-    "Age": [19],
-    "Courses": ["Python Basics, Fundamentals, Advanced, OOP, Data Science"],
-    "Education": ["C++ Basic"],
-    "Club": ["Competitive Programming"],
-    "Skills": ["Learning and Programming Every Day, Curiosity, Solving Different Tasks"]
-}
-
-pd.DataFrame(data)
-
-'''
 
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
