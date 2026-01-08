@@ -2,7 +2,7 @@
 **About me**
 
 
-Hi! My name is Danail and I am 19 years old. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. I am also exploring Data Science with Python. In addition, I am learning C++ and practicing Competitive Programming using C++. I solve different programming tasks on a daily basis and regularly upload educational content as part of my learning journey.
+Hi! My name is Danai. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. I am also exploring Data Science with Python. In addition, I am learning C++ and practicing Competitive Programming using C++. I solve different programming tasks on a daily basis and regularly upload educational content as part of my learning journey.
 
 
 
