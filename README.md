@@ -13,7 +13,7 @@ Hi! My name is Danail. I am currently studying Python through various courses, i
 -  **MySQL and Python DataFrames** 
 -  **HTML, CSS and Java Script**
 -  **MS Office** 
-  -  Word.
+  -  Word
   -  Excel.
   -  Power Point.
 
