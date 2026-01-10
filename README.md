@@ -15,7 +15,7 @@ Hi! My name is Danail. I am currently studying Python through various courses, i
 -  **MS Office** 
   -  Word
   -  Excel.
-  -  Power Point.
+  -  Power Point
 
 ##  Goals:
 - Build more real-world projects;
