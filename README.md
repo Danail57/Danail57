@@ -14,7 +14,7 @@ Hi! My name is Danail. I am currently studying Python through various courses, i
 -  **HTML, CSS and Java Script**
 -  **MS Office** 
   -  Word
-  -  Excel.
+  -  Excel
   -  Power Point
 
 ##  Goals:
