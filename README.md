@@ -12,7 +12,7 @@ I solve different programming tasks on a daily basis and regularly upload educat
 -  **Python - Basics, Fundamentals, Advanced, OOP**
 -  **Python for Data Science and Machine Learning**
 -  **C++ and Competitive Programming**
--  **MySQL and Python DataFrames** 
+-  **MySQL and Python Data Frames** 
 -  **HTML, CSS and Java Script**
 -  **MS Office** 
   -  Word
