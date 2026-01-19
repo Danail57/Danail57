@@ -6,7 +6,6 @@ I am also exploring Data Science with Python. In addition, I am learning C++ and
 I solve different programming tasks on a daily basis and regularly upload educational content as part of my learning journey.
 
 
-
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
 -  **Python for Data Science and Machine Learning**
