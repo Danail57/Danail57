@@ -28,6 +28,8 @@ I solve different programming tasks on a daily basis and regularly upload educat
 
 -  LinkedIn: https://www.linkedin.com/in/danail-donkov-15b328331
 
+-  Web of Science: https://www.webofscience.com/wos/author/record/PHO-9410-2026
+
   ###  Keywords to help others find me:
 
 `Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`
