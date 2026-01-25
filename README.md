@@ -16,6 +16,7 @@ I solve different programming tasks on a daily basis and regularly upload educat
   -  Word
   -  Excel
   -  Power Point
+-  **Web of Science - Publishing academic materials for Programming and Math**
 
 ##  Goals:
 - Build more real-world projects;
