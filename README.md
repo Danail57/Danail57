@@ -31,7 +31,7 @@ I solve different programming tasks on a daily basis and regularly upload educat
 
   ###  Keywords to help others find me:
 
-`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`
+`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`
 
 ## My motto is:
 Learning by doing - The mindset that builds and develops real beneficial skills.
