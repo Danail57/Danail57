@@ -2,7 +2,7 @@
 **About me**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Python+Developer;C++ + Learner; Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Python+Developer; Data+Scientist" />
 </p>
 
 Hello! My name is Danail. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. 
