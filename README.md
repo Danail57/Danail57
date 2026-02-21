@@ -16,7 +16,6 @@ I solve different programming tasks every day and regularly upload educational c
 -  **Python for Data Science and Machine Learning**
 -  **C++ and Competitive Programming in the university**
 -  **SQL and Python Data Frames** 
--  **HTML, CSS and Java Script**
 -  **MS Office** 
   -  Word
   -  Excel
