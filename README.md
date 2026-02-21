@@ -56,8 +56,3 @@ Here is the Tech Stack I work with.
 
 ## My motto is:
 Learning by doing - The mindset that builds and develops real beneficial skills.
-
-
-<p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/221154" alt="Futuristic Technology GIF" />
-</p>
