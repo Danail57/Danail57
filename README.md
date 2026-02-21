@@ -14,7 +14,7 @@ I solve different programming tasks every day and regularly upload educational c
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
 -  **Python for Data Science and Machine Learning**
--  **C++ and Competitive Programming**
+-  **C++ and Competitive Programming in the university**
 -  **MySQL and Python Data Frames** 
 -  **HTML, CSS and Java Script**
 -  **MS Office** 
