@@ -23,7 +23,7 @@ I solve different programming tasks every day and regularly upload educational c
   -  Power Point
 -  **Web of Science - Publishing academic materials for Programming and Math**
 
-Tech Stack
+Here is the Tech Stack I work with.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
