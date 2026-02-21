@@ -47,7 +47,4 @@ Here is the Tech Stack I work with.
 
   ###  Keywords to help others find me:
 
-`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`, `Competitive Programming`, `DSA`, `MS Access`
-
-## My motto is:
-Learning by doing - The mindset that builds and develops real beneficial skills.
+`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`, `Competitive Programming`, `DSA`
