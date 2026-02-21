@@ -39,11 +39,6 @@ Here is the Tech Stack I work with.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-##  Goals:
-- Build more real-world projects;
-- Explore ethical hacking and security practices;
-- Collaborate with others on GitHub.
-
 ##  How to reach me:
 -  Email: danail.donkov5@gmail.com
 
