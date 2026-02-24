@@ -19,8 +19,6 @@ I solve different programming tasks every day and regularly upload educational c
 -  **MS Office** 
   -  Word
   -  Excel
-  -  Power Point
--  **Web of Science - Publishing academic materials for Programming and Math**
 
 Here is the Tech Stack I work with.
 
