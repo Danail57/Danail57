@@ -20,6 +20,11 @@ I solve different programming tasks every day and regularly upload educational c
   -  Word
   -  Excel
 
+##  What I'm studying:
+- **C++**
+- **Calculus I, II**
+- **Computer Architectures**
+
 Here is the Tech Stack I work with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
