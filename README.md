@@ -24,6 +24,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Calculus I, II**
 - **Computer Architectures**
 - **Paralel Programming**
+- **Databases**
 
 
 Here is the Tech Stack I work with:
