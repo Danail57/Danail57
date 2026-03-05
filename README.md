@@ -16,8 +16,7 @@ I solve different programming tasks every day and regularly upload educational c
 -  **C++ and Competitive Programming in the university**
 -  **SQL and Python Data Frames** 
 -  **MS Office** 
-  -  Word
-  -  Excel
+
 
 ##  What I'm studying:
 - **C++**
