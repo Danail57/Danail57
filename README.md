@@ -24,6 +24,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Computer Architectures**
 - **Paralel Programming**
 - **Databases**
+- **Competitive Programming**
 
 
 Here is the Tech Stack I work with:
