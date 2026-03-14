@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Aspiring+Data+Analyst" />
 </p>
 
+
 Hello! My name is Danail. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. 
 I am also exploring Data Science with Python. In addition, I am learning C++ and practicing Competitive Programming with C++ at the university. 
 I solve different programming tasks every day and regularly upload educational content as part of my learning journey.
