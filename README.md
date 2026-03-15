@@ -46,6 +46,7 @@ Here is the Tech Stack I work with:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-5C00FF?style=for-the-badge&logo=obsidian&logoColor=white)
+![Maple](https://img.shields.io/badge/Maple-E51515?style=for-the-badge&logo=maple&logoColor=white)
 
 ##  How to reach me:
 -  Email: danail.donkov5@gmail.com
