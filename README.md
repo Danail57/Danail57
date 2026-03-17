@@ -54,6 +54,6 @@ Here is the Tech Stack I work with:
 -  LinkedIn: https://www.linkedin.com/in/danail-donkov-15b328331
 
 
-  ###  Keywords to help others find me:
+  ###  Keywords to find me:
 
 `Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`, `Competitive Programming`, `DSA`
