@@ -28,6 +28,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Competitive Programming**
 - **Maple**
 - **Matlab**
+- **Linux OS**
 
 
 Here is the Tech Stack I work with:
