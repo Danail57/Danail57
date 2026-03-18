@@ -31,7 +31,6 @@ I solve different programming tasks every day and regularly upload educational c
 
 
 Here is the Tech Stack I work with:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0C9D58?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
