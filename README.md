@@ -29,6 +29,8 @@ I solve different programming tasks every day and regularly upload educational c
 - **Maple**
 - **Matlab**
 - **Linux OS**
+- **Informatics**
+- ****
 
 
 Here is the Tech Stack I work with:
