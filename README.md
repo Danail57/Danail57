@@ -30,7 +30,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Matlab**
 - **Linux OS**
 - **Informatics**
-- ****
+- **Telecommunications**
 
 
 Here is the Tech Stack I work with:
