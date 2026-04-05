@@ -29,7 +29,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Linux OS**
 - **Informatics**
 - **Telecommunications**
-- **Basics of the Computer Part**
+- **Basics of the Computer**
 - **BCD Code**
 
 
