@@ -30,6 +30,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Informatics**
 - **Telecommunications**
 - **Basics of the Computer Part**
+- **BCD Code**
 
 
 Here is the Tech Stack I work with:
