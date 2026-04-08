@@ -8,7 +8,6 @@ Hello! My name is Danail. I am currently studying Python through various courses
 I am also exploring Data Science with Python. In addition, I am learning C++ and practicing Competitive Programming with C++ at the university. 
 I solve different programming tasks every day and regularly upload educational content as part of my learning journey.
 
-
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP**
 -  **Python for Data Science and Machine Learning**
