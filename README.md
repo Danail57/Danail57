@@ -9,7 +9,7 @@ I am also exploring Data Science with Python. In addition, I am learning C++ and
 I solve different programming tasks every day and regularly upload educational content as part of my learning journey.
 
 ##  What I'm working with:
--  **Python - Basics, Fundamentals, Advanced, OOP, SOLID principles**
+-  **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles**
 -  **Python for Data Science and Machine Learning**
 -  **C++ and Competitive Programming at the university**
 -  **SQL and Python Data Frames** 
