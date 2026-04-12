@@ -30,6 +30,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Telecommunications**
 - **Basics of the Computer Science and its fundamental idea**
 - **BCD Code**
+- -**Fortran**
 
 
 Here is the Tech Stack I work with:
