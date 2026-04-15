@@ -29,7 +29,7 @@ I solve different programming tasks every day and regularly upload educational c
 - **Telecommunications**
 - **Basics of the Computer Science and its fundamental idea**
 - **BCD Code**
-- **Programming with **
+- **Programming with Assembly**
 
 
 Here is the Tech Stack I work with:
