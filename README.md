@@ -20,7 +20,6 @@ I solve different programming tasks every day and regularly upload educational c
 - **C++**
 - **Calculus I, II**
 - **Computer Architectures**
-- **Paralel Programming**
 - **Databases**
 - **Competitive Programming**
 - **Maple**
