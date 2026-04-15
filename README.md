@@ -30,7 +30,6 @@ I solve different programming tasks every day and regularly upload educational c
 - **Basics of the Computer Science and its fundamental idea**
 - **BCD Code**
 - **Programming with Fortran**
-- **Programming with Pascal**
 
 
 Here is the Tech Stack I work with:
