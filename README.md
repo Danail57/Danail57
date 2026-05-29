@@ -21,17 +21,14 @@ Furthermore, I am studying Java through various courses and solving different ta
 
 ##  What I'm studying:
 - **C++**
+- **Java**
 - **Calculus I, II**
 - **Computer Architectures**
 - **Databases**
 - **Competitive Programming**
 - **Maple**
 - **Matlab**
-- **Linux OS**
-- **Informatics**
-- **Telecommunications**
-- **Basics of the Computer Science and its fundamental idea**
-- **Programming with Assembly**
+
 
 
 Here is the Tech Stack I work with:
