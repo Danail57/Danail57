@@ -13,8 +13,8 @@ Furthermore, I am studying Java through various courses and solving different ta
 ##  What I'm working with:
 -  **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
 -  **Python for Data Science and Machine Learning**
--  **C++**
--  **Java**
+-  **C++ - Basics, Fundamentals, Advanced, OOP**
+-  **Java - Basics**
 -  **SQL and Python Data Frames** 
 -  **MS Office** 
 
