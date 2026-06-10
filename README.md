@@ -20,6 +20,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 
 
 ##  What I'm studying:
+-**Python**
 - **C++**
 - **Java**
 - **Calculus I, II**
