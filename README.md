@@ -15,6 +15,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 -  **Data Science and Machine Learning with Python**
 -  **C++ VSC**
 -  **Java**
+-  **MySQL WorkBench**
 -  **MS Office** 
 
 
