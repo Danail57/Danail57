@@ -11,16 +11,16 @@ I solve different programming tasks every day and regularly upload educational c
 Furthermore, I am studying Java through various courses and solving different tasks
 
 ##  What I'm working with:
--  **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
--  **Python for Data Science and Machine Learning**
--  **C++ - Basics, Fundamentals, Advanced, OOP**
--  **Java - Basic**
--  **SQL and Python Data Frames** 
+-  **Python**
+-  **Data Science and Machine Learning with Python**
+-  **C++ - VSC**
+-  **Java**
 -  **MS Office** 
 
 
 ##  What I'm studying:
-- **Python**
+- **Python for Data Science and Machine Learning**
+- **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
 - **C++ - Basics, Fundamentals, Advanced, OOP**
 - **Java**
 - **Calculus I, II**
@@ -28,6 +28,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Competitive Programming**
 - **Maple**
 - **Matlab**
+- **SQL and Python Data Frames** 
 
 
 
