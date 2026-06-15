@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Aspiring+Data+Analyst;C%2B%2B+Learner;Java+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Aspiring+Data+Analyst;C%2B%2B+Learner;SQL+Learner" />
 </p>
 
 Hello! My name is Danail. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. 
