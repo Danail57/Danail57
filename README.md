@@ -14,14 +14,14 @@ Furthermore, I am studying Java through various courses and solving different ta
 -  **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
 -  **Python for Data Science and Machine Learning**
 -  **C++ - Basics, Fundamentals, Advanced, OOP**
--  **Java - Basics**
+-  **Java - Basic**
 -  **SQL and Python Data Frames** 
 -  **MS Office** 
 
 
 ##  What I'm studying:
 - **Python**
-- **C++**
+- **C++ - Basics, Fundamentals, Advanced, OOP**
 - **Java**
 - **Calculus I, II**
 - **Databases**
