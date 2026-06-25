@@ -26,10 +26,10 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Java**
 - **Calculus I, II**
 - **Databases**
-- **Competitive Programming**
 - **Maple**
 - **Matlab**
-- **SQL and Python Data Frames** 
+- **SQL and Python Data Frames**
+- **Data Bases**
 
 
 
