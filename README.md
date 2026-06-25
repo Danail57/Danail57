@@ -16,7 +16,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 -  **C++ VSC**
 -  **Java**
 -  **MySQL WorkBench**
--  **MS Office** 
+-  **MS Office (Excel, Word, Power Point)** 
 
 
 ##  What I'm studying:
