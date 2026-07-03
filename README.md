@@ -64,4 +64,4 @@ Here is the Tech Stack I work with:
 
   ###  Keywords to find me:
 
-`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`, `Competitive Programming`, `DSA`
+`Danail57`, `Python Developer`,`MS Excel`, `GitHub`, `Learning by doing`, `Programming Courses`, `Python Projects`, `Data Science`, `ML`, `SQL`, `Excel`, `C++`, `DSA`
