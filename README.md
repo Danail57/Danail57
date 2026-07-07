@@ -29,7 +29,6 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Maple**
 - **Matlab**
 - **SQL and Python Data Frames**
-- **Relational Data Bases**
 
 
 
