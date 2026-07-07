@@ -13,7 +13,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 ##  What I'm working with:
 -  **Python**
 -  **Data Science and Machine Learning with Python**
--  **C++ VSC**
+-  **C++**
 -  **Java**
 -  **MySQL WorkBench**
 -  **MS Office (Excel, Word, Power Point)** 
