@@ -6,7 +6,7 @@
 </p>
 
 Hello! My name is Danail. I am currently studying Python through various courses, including Python Basics, Fundamentals, Advanced topics, and Object-Oriented Programming. 
-I am also exploring Data Science with Python. In addition, I am learning C++ and practicing Competitive Programming with C++ at the university. 
+I am also exploring Data Science with Python. In addition, I am learning C++ and Java at the university. 
 I solve different programming tasks every day and regularly upload educational content as part of my learning journey.
 Furthermore, I am studying Java through various courses and solving different tasks.
 
