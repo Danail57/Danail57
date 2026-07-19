@@ -23,7 +23,6 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
 - **C++ - Basics, Fundamentals, Advanced, OOP**
 - **Java**
-- **Calculus I, II**
 - **Databases**
 - **Maple**
 - **Matlab**
