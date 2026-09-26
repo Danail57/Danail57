@@ -26,7 +26,7 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Databases**
 - **Maple**
 - **SQL and Python Data Frames**
-- **Matlab**
+- **Matlab (Octave)**
 
 
 
