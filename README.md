@@ -22,7 +22,6 @@ Furthermore, I am studying Java through various courses and solving different ta
 - **Python for Data Science and Machine Learning**
 - **Python - Basics, Fundamentals, Advanced, OOP, SOLID Principles, CRUD Principles**
 - **C++ - Basics, Fundamentals, Advanced, OOP**
-- **Java**
 - **Databases**
 - **Maple**
 - **SQL and Python Data Frames**
