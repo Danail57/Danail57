@@ -14,6 +14,7 @@ I solve different programming tasks every day and regularly upload educational c
 -  **Python**
 -  **Data Science and Machine Learning with Python**
 -  **C++**
+- 
 -  **MySQL WorkBench**
 -  **MS Office (Excel, Word, Power Point)** 
 
